@@ -53,6 +53,9 @@ node_modules/
 # ignore composer vendor directory
 /vendor
 
+# ignore build folder
+/build
+
 # ignore components loaded via Bower
 /bower_components
 
